@@ -31,12 +31,12 @@
 ### 📊 Live Stats
 
 <p align="left">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC_REPLACE_WITH_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&label=Subscribers" />
+  <img src="https://img.shields.io/youtube/channel/subscribers/UCT1HUk6BVHPKHAw4pidsBkg?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&label=Subscribers" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/modrinth/dt/REPLACE_WITH_PROJECT_ID?style=for-the-badge&logo=modrinth&logoColor=white&color=00AF5C&label=Downloads" />
-  <img src="https://img.shields.io/modrinth/followers/REPLACE_WITH_PROJECT_ID?style=for-the-badge&logo=modrinth&color=00AF5C&label=Followers" />
+  <img src="https://img.shields.io/modrinth/dt/SewRwJgk?style=for-the-badge&logo=modrinth&logoColor=white&color=00AF5C&label=Downloads" />
+  <img src="https://img.shields.io/modrinth/followers/SewRwJgk?style=for-the-badge&logo=modrinth&color=00AF5C&label=Followers" />
 </p>
 
 ---
