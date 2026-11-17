@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm NotThatLonely 👋</h1>
 
-<!--
-**NotThatLonely/NotThatLonely** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Developer • Mod/Plugin Creator • Content Creator</em>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.youtube.com/@NotThatLonely">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://modrinth.com/user/NotThatLonely">
+    <img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" />
+  </a>
+  <a href="https://notthatlonely.pages.dev/">
+    <img src="https://img.shields.io/badge/Website-5865F2?style=for-the-badge&logo=cloudflare-pages&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+- 🛠️ I build **mods, plugins, and bots** for Minecraft
+- 🎥 I create **content** on YouTube about my projects and dev process
+- 🌐 Check out my work and portfolio at my [website](https://notthatlonely.pages.dev/)
+- 📦 I publish projects on **Modrinth** — stats below update automatically
+- ⚡ Always learning, always building
+
+---
+
+### 📊 Live Stats
+
+<p align="left">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC_REPLACE_WITH_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&color=FF0000&label=Subscribers" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/modrinth/dt/REPLACE_WITH_PROJECT_ID?style=for-the-badge&logo=modrinth&logoColor=white&color=00AF5C&label=Downloads" />
+  <img src="https://img.shields.io/modrinth/followers/REPLACE_WITH_PROJECT_ID?style=for-the-badge&logo=modrinth&color=00AF5C&label=Followers" />
+</p>
+
+---
+
+<p align="center">
+  <em>Thanks for stopping by — check out the links above for more!</em>
+</p>
